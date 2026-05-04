@@ -14,6 +14,7 @@ st.set_page_config(
 )
 
 st.title("Exploratory Data Analysis App")
+st.write("Dr. Jesus Alvarado")
 
 # ======================================================================
 # Sidebar - Carga de datos
